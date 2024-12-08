@@ -1,0 +1,44 @@
+.summary-container {
+    text-align: center;
+    color: black;
+    background-color: #4B3F72;
+    padding: 50px;
+    border-radius: 20px;    
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 58px;
+    margin-bottom: 100px;
+    margin-left: 650px;
+    margin-right: 650px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    font-size: 25px;
+  }
+
+  body {
+    background-color: #7D5BA6;
+    margin: 0; 
+    padding: 0; 
+    height: 100%;
+    overflow-x: hidden; 
+    width: 100%;
+}
+
+.details .output {
+    color: #ffffff; 
+    font-weight: bold;
+  }
+
+  .summary-container button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 3px 0;
+    cursor: pointer;
+   
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: auto;
+  }
+  

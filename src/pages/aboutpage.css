@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh; 
+    overflow-x: hidden;  
+    overflow-y: auto;
+}
+
+.container1 {
+    
+    width: 90%;
+    margin-top: 50px; 
+    margin-left: 75px;
+    margin-bottom: 200px;
+    padding: 20px;
+    margin-top: 80px; 
+}
+
+.headline1, .intro-text1 {
+    margin: 0;
+}
+
+.headline1 {
+    font-size: 40px; 
+    text-align: center; 
+}
+
+.title1 {
+    font-size: 30px;  
+}
+
+.semititle {
+    font-size: 30px; 
+    text-align: center; 
+}
+
+.intro-text1 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;  
+}
+
+
+.steps {
+    text-align: center;
+    white-space: nowrap; 
+}
+
+
+.step {
+    display: inline-block;
+    width: 30%; 
+    margin: 0 10px; 
+    vertical-align: top; 
+}
+
+.step img {
+    margin-bottom: 10px;
+}
+
